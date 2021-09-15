@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://support.ruby.dev.br/sitemap.xml
